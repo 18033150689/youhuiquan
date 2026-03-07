@@ -1,0 +1,82 @@
+{
+  "siteTitle": "美团外卖红包",
+  "bgColor": "#FFD700",
+  "header": {
+    "enabled": true,
+    "logoUrl": "https://img.meituan.net/avatar/__47630544__1545740.jpg",
+    "text": "美团外卖",
+    "textColor": "#FF6B00",
+    "fontSize": "24px",
+    "fontWeight": "bold",
+    "align": "center",
+    "logoPosition": "left",
+    "logoSize": "40px"
+  },
+  "carousel": [
+    {
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&auto=format&fit=crop",
+      "title": "品质外卖",
+      "subtitle": "精选商家5折起",
+      "link": "mp://waCrkb5KYIQalbi"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=800&auto=format&fit=crop",
+      "title": "新人专享",
+      "subtitle": "首单立减20元",
+      "link": "mp://waCrkb5KYIQalbi"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&auto=format&fit=crop",
+      "title": "限时秒杀",
+      "subtitle": "天天特价1元起",
+      "link": "mp://waCrkb5KYIQalbi"
+    }
+  ],
+  "stepsType": "text",
+  "stepsText": "先领券 → 再下单 → 享优惠",
+  "stepsColor": "#FF6B00",
+  "mainButton": {
+    "text": "立即领取红包",
+    "color": "linear-gradient(135deg, #FF6B00, #FF9800)",
+    "textColor": "#FFFFFF",
+    "link": "mp://waCrkb5KYIQalbi"
+  },
+  "subButtonsEnabled": true,
+  "subButtons": {
+    "button1": {
+      "text": "品质会场",
+      "desc": "精选商家5折起",
+      "link": "mp://waCrkb5KYIQalbi"
+    },
+    "button2": {
+      "text": "超值券包",
+      "desc": "多张优惠券组合",
+      "link": "mp://waCrkb5KYIQalbi"
+    }
+  },
+  "imageButtonsEnabled": true,
+  "imageButtons": [
+    {
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400&auto=format&fit=crop",
+      "text": "早餐券",
+      "link": "mp://waCrkb5KYIQalbi"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=400&auto=format&fit=crop",
+      "text": "午餐券",
+      "link": "mp://waCrkb5KYIQalbi"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&auto=format&fit=crop",
+      "text": "夜宵券",
+      "link": "mp://waCrkb5KYIQalbi"
+    }
+  ],
+  "tips": [
+    "1. 先领完上方所有的券，领完后返回此页面，点击对应按钮即可使用券。",
+    "2. 收货人手机号和登录手机号必须一致才可用券。",
+    "3. 美团一天可领3次，饿了么可以领两个红包。",
+    "4. 优惠券有效期以领取时显示为准。",
+    "5. 新用户可享受更多专属优惠。"
+  ]
+}
