@@ -1,11 +1,11 @@
 {
   "siteTitle": "美团外卖红包",
-  "bgColor": "#FFD700",
+  "bgColor": "#FEDB03",
   "header": {
     "enabled": true,
-    "logoUrl": "https://img.meituan.net/avatar/__47630544__1545740.jpg",
-    "text": "美团外卖",
-    "textColor": "#FF6B00",
+    "logoUrl": "",
+    "text": "美团",
+    "textColor": "#000000",
     "fontSize": "24px",
     "fontWeight": "bold",
     "align": "center",
@@ -14,69 +14,69 @@
   },
   "carousel": [
     {
-      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&auto=format&fit=crop",
-      "title": "品质外卖",
-      "subtitle": "精选商家5折起",
-      "link": "mp://waCrkb5KYIQalbi"
+      "image": "https://test.fukit.cn/autoupload/f/90B1BiV42O9JOwrrDNqX99iO_OyvX7mIgxFBfDMDErs/20260306/txWt/1344X704/11.jpg",
+      "title": "水果会场",
+      "subtitle": "领神券59-20、69-25、99-30，果切9.9起",
+      "link": "http://dpurl.cn/EAWMzcQz"
     },
     {
-      "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=800&auto=format&fit=crop",
-      "title": "新人专享",
-      "subtitle": "首单立减20元",
-      "link": "mp://waCrkb5KYIQalbi"
+      "image": "https://test.fukit.cn/autoupload/f/90B1BiV42O9JOwrrDNqX99iO_OyvX7mIgxFBfDMDErs/20260306/cIGA/1344X704/22.jpg",
+      "title": "38大促综合会场",
+      "subtitle": "通用神券49-12/79-18/139-35/300-60",
+      "link": "http://dpurl.cn/mQst03sz"
     },
     {
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&auto=format&fit=crop",
-      "title": "限时秒杀",
-      "subtitle": "天天特价1元起",
-      "link": "mp://waCrkb5KYIQalbi"
+      "image": "https://test.fukit.cn/autoupload/f/90B1BiV42O9JOwrrDNqX99iO_OyvX7mIgxFBfDMDErs/20260306/2GEq/1344X704/33.jpg",
+      "title": "38大促美妆会场",
+      "subtitle": "领美妆神券最高减300，，3折起再叠券",
+      "link": "http://dpurl.cn/Qyhn1oaz"
     }
   ],
-  "stepsType": "text",
+  "stepsType": "image",
   "stepsText": "先领券 → 再下单 → 享优惠",
   "stepsColor": "#FF6B00",
   "mainButton": {
-    "text": "立即领取红包",
+    "text": "领红包点外卖",
     "color": "linear-gradient(135deg, #FF6B00, #FF9800)",
     "textColor": "#FFFFFF",
-    "link": "mp://waCrkb5KYIQalbi"
+    "link": "http://dpurl.cn/vE8REkUz"
   },
   "subButtonsEnabled": true,
   "subButtons": {
     "button1": {
-      "text": "品质会场",
-      "desc": "精选商家5折起",
-      "link": "mp://waCrkb5KYIQalbi"
+      "text": "吃喝玩乐 每日福利",
+      "desc": " 内部优惠3折起",
+      "link": "http://dpurl.cn/WsChToCz"
     },
     "button2": {
-      "text": "超值券包",
-      "desc": "多张优惠券组合",
-      "link": "mp://waCrkb5KYIQalbi"
+      "text": "开学季",
+      "desc": "抽免单最高18，领最高减10",
+      "link": "http://dpurl.cn/wHbDPoNz"
     }
   },
   "imageButtonsEnabled": true,
   "imageButtons": [
     {
-      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400&auto=format&fit=crop",
-      "text": "早餐券",
-      "link": "mp://waCrkb5KYIQalbi"
+      "image": "https://test.fukit.cn/autoupload/f/90B1BiV42O9JOwrrDNqX99iO_OyvX7mIgxFBfDMDErs/20260306/kASd/1152X896/44.jpeg",
+      "text": "免费领取",
+      "link": "http://dpurl.cn/2IPwHM1z"
     },
     {
-      "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=400&auto=format&fit=crop",
-      "text": "午餐券",
-      "link": "mp://waCrkb5KYIQalbi"
+      "image": "https://test.fukit.cn/autoupload/f/90B1BiV42O9JOwrrDNqX99iO_OyvX7mIgxFBfDMDErs/20260306/WNVe/1152X896/66.jpeg",
+      "text": "免费领取",
+      "link": "http://dpurl.cn/YzzSTMIz"
     },
     {
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&auto=format&fit=crop",
-      "text": "夜宵券",
-      "link": "mp://waCrkb5KYIQalbi"
+      "image": "https://test.fukit.cn/autoupload/f/90B1BiV42O9JOwrrDNqX99iO_OyvX7mIgxFBfDMDErs/20260306/jU0S/1152X896/55.jpeg",
+      "text": "免费领取",
+      "link": "http://dpurl.cn/HMGWpnKz"
     }
   ],
   "tips": [
-    "1. 先领完上方所有的券，领完后返回此页面，点击对应按钮即可使用券。",
-    "2. 收货人手机号和登录手机号必须一致才可用券。",
-    "3. 美团一天可领3次，饿了么可以领两个红包。",
-    "4. 优惠券有效期以领取时显示为准。",
-    "5. 新用户可享受更多专属优惠。"
-  ]
+    "1. 先领完上方所有的券，领完后返回此页面，点击\"快速用券\"-点去使用，即可使用券。",
+    "2. 饿了么，点外卖红包和加餐红包，同时领取。",
+    "3. 收货人手机号和登录手机号，必须一致才可用券。查看个人中心教程进行修改。",
+    "4. 美团一天可领3次，饿了么可以领两个(外卖红包和加餐红包)"
+  ],
+  "stepsImage": "https://test.fukit.cn/autoupload/f/90B1BiV42O9JOwrrDNqX99iO_OyvX7mIgxFBfDMDErs/20260306/1rW9/626X135/22222222.png"
 }
