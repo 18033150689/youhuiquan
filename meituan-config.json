@@ -58,24 +58,23 @@
   "imageButtons": [
     {
       "image": "https://test.fukit.cn/autoupload/f/90B1BiV42O9JOwrrDNqX99iO_OyvX7mIgxFBfDMDErs/20260306/kASd/1152X896/44.jpeg",
-      "text": "免费领取",
+      "text": "免领取",
       "link": "http://dpurl.cn/2IPwHM1z"
     },
     {
       "image": "https://test.fukit.cn/autoupload/f/90B1BiV42O9JOwrrDNqX99iO_OyvX7mIgxFBfDMDErs/20260306/WNVe/1152X896/66.jpeg",
-      "text": "免费领取",
+      "text": "免费领",
       "link": "http://dpurl.cn/YzzSTMIz"
     },
     {
       "image": "https://test.fukit.cn/autoupload/f/90B1BiV42O9JOwrrDNqX99iO_OyvX7mIgxFBfDMDErs/20260306/jU0S/1152X896/55.jpeg",
-      "text": "免费领取",
+      "text": "免领取",
       "link": "http://dpurl.cn/HMGWpnKz"
     }
   ],
   "tips": [
     "1. 先领完上方所有的券，领完后返回此页面，点击\"快速用券\"-点去使用，即可使用券。",
-    "2. 饿了么，点外卖红包和加餐红包，同时领取。",
-    "3. 收货人手机号和登录手机号，必须一致才可用券。查看个人中心教程进行修改。",
+    "2. 饿了么，点外卖红包查看个人中心教程进行修改。",
     "4. 美团一天可领3次，饿了么可以领两个(外卖红包和加餐红包)"
   ],
   "stepsImage": "https://test.fukit.cn/autoupload/f/90B1BiV42O9JOwrrDNqX99iO_OyvX7mIgxFBfDMDErs/20260306/1rW9/626X135/22222222.png"
