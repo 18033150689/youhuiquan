@@ -1,0 +1,76 @@
+{
+  "siteTitle": "饿了么外卖红包",
+  "bgColor": "#0FADFF",
+  "header": {
+    "enabled": true,
+    "logoUrl": "https://img.alicdn.com/tfs/TB1wYc8e.z1gK0jSZLeXXb9kVXa-183-60.png",
+    "text": "饿了么",
+    "textColor": "#0FADFF",
+    "fontSize": "24px",
+    "fontWeight": "bold",
+    "align": "center",
+    "logoPosition": "left",
+    "logoSize": "40px"
+  },
+  "carousel": [
+    {
+      "image": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=800&auto=format&fit=crop",
+      "title": "饿了么红包",
+      "subtitle": "每日可领多个红包",
+      "link": "mp://eleme_specific_link_1"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=800&auto=format&fit=crop",
+      "title": "新人专享",
+      "subtitle": "首单最高减20元",
+      "link": "mp://eleme_specific_link_2"
+    }
+  ],
+  "stepsType": "text",
+  "stepsText": "先领红包 → 再下单 → 享优惠",
+  "stepsColor": "#0FADFF",
+  "mainButton": {
+    "text": "立即领取红包",
+    "color": "linear-gradient(135deg, #0FADFF, #2E8B57)",
+    "textColor": "#FFFFFF",
+    "link": "mp://eleme_specific_link_main"
+  },
+  "subButtonsEnabled": true,
+  "subButtons": {
+    "button1": {
+      "text": "品质商家",
+      "desc": "精选餐厅5折起",
+      "link": "mp://eleme_specific_link_3"
+    },
+    "button2": {
+      "text": "限时秒杀",
+      "desc": "特价商品1元起",
+      "link": "mp://eleme_specific_link_4"
+    }
+  },
+  "imageButtonsEnabled": true,
+  "imageButtons": [
+    {
+      "image": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=400&auto=format&fit=crop",
+      "text": "早餐红包",
+      "link": "mp://eleme_specific_link_5"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=400&auto=format&fit=crop",
+      "text": "午餐红包",
+      "link": "mp://eleme_specific_link_6"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&auto=format&fit=crop",
+      "text": "夜宵红包",
+      "link": "mp://eleme_specific_link_7"
+    }
+  ],
+  "tips": [
+    "1. 饿了么每天可领取多个外卖红包。",
+    "2. 红包领取后需在有效期内使用。",
+    "3. 不同商家可使用不同红包。",
+    "4. 新用户可享受更多专属优惠。",
+    "5. 红包可与店铺优惠叠加使用。"
+  ]
+}
