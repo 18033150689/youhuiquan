@@ -3,12 +3,12 @@
 // 链接格式：https://cdn.jsdelivr.net/gh/用户名/仓库名@分支名/config.js
 
 const siteConfig = {
-    "siteTitle": "美团外卖红包",
+    "siteTitle": "美团 红包",
     "bgColor": "#FFD700",
     "header": {
         "enabled": true,
         "logoUrl": "",
-        "text": "美团外卖红包",
+        "text": "美团 包",
         "textColor": "#FF6B00",
         "fontSize": "24px",
         "fontWeight": "bold",
@@ -25,14 +25,14 @@ const siteConfig = {
         },
         {
             "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=800&auto=format&fit=crop",
-            "title": "超值优惠",
-            "subtitle": "新人专享大礼包",
+            "title": "超 优惠",
+            "subtitle": "新人 大礼包",
             "link": "https://meituan.com"
         },
         {
             "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&auto=format&fit=crop",
-            "title": "限时特惠",
-            "subtitle": "满30减10元",
+            "title": "限 特惠",
+            "subtitle": "满3 10元",
             "link": "https://meituan.com"
         }
     ],
@@ -59,24 +59,23 @@ const siteConfig = {
     "imageButtons": [
         {
             "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400&auto=format&fit=crop",
-            "text": "免费领取",
+            "text": "免 取",
             "link": "https://meituan.com"
         },
         {
             "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=400&auto=format&fit=crop",
-            "text": "新人专享",
+            "text": "新 享",
             "link": "https://meituan.com"
         },
         {
             "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400&auto=format&fit=crop",
-            "text": "限时特惠",
+            "text": "限 惠",
             "link": "https://meituan.com"
         }
     ],
     "tips": [
         "1. 先领完上方所有的券，领完后返回此页面，点击对应按钮即可使用券。",
-        "2. 收货人手机号和登录手机号必须一致才可用券。",
-        "3. 美团一天可领3次，饿了么可以领两个红包。",
+        "2. 收货人手机 可以领两个红包。",
         "4. 优惠券有效期以领取时显示为准。"
     ]
 };
