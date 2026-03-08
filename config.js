@@ -1,8 +1,6 @@
-"color: #6a9955;">// 美团外卖红包配置文件
-"color: #6a9955;">// 自动生成时间：2026/3/9 00:35:53
-"color: #6a9955;">// GitHub链接格式: https://cdn.jsdelivr.net/gh/用户名/仓库名@分支名/config.js
-
-"color: #569cd6;">const siteConfig = {
+// 美团外卖红包配置文件
+// 自动生成时间：2026/3/9 00:35:53
+// GitHub链接格式: https://cdn.jsdelivr.net/gh/用户名/仓库名@分支名/config.jsconst siteConfig = {
   "siteTitle": "美团外卖红包",
   "bgColor": "#FFD700",
   "header": {
